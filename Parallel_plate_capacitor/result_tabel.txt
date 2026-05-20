@@ -1,0 +1,6 @@
+% Model:              parallel_plate_capacitor.mph
+% Version:            COMSOL 6.3.0.290
+% Date:               May 20 2026, 11:51
+% Table:              Table 1 - Global Evaluation 1
+% Total electric energy (J) Total electric energy (J) Terminal charge (C)      Terminal charge (C)
+2.2135469540730214E-12      2.2135469540730214E-12    4.427093908138852E-12    4.427093908138852E-12
